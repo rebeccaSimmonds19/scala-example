@@ -2,7 +2,7 @@ name := "scala-test"
 
 version := "0.1"
 
-scalaVersion := "2.11.11"
+scalaVersion := "2.11.8"
 
 libraryDependencies += "com.github.haifengl" %% "smile-scala" % "1.5.0"
 
