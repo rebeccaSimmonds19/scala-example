@@ -7,9 +7,3 @@ scalaVersion := "2.12.8"
 libraryDependencies += "com.github.haifengl" %% "smile-scala" % "1.5.0"
 
 libraryDependencies += "com.github.haifengl" % "smile-core" % "1.5.0"
-
-libraryDependencies += "com.github.haifengl" % "smile-interpolation" % "1.5.0"
-
-libraryDependencies += "com.github.haifengl" % "smile-nlp" % "1.5.0"
-
-libraryDependencies += "com.github.haifengl" % "smile-plot" % "1.5.0"
